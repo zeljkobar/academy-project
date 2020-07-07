@@ -1,0 +1,1 @@
+package com.academy.demo.domains;public class Customer {}

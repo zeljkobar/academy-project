@@ -1,0 +1,1 @@
+package com.academy.demo.repositories;import com.academy.demo.domains.User;import org.springframework.data.jpa.repository.JpaRepository;public interface UserRepository extends JpaRepository<User, Long> { }
